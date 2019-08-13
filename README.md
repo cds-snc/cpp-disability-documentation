@@ -1,8 +1,6 @@
-# *Find benefits and services* documentation
+# CPP Disability documentation
 
-*Find benefits and services* is a web-based application that helps people find relevant benefits.
-
-This repository contains companion documentation for the project and can be viewed at [https://github.com/cds-snc/find-benefits-and-services](https://github.com/cds-snc/find-benefits-and-services).
+Documenting CDS and ESDC's work to improve how people receive the CPP Disability benefit. 
 
 ## Editing the documentation
 
