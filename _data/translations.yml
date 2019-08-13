@@ -1,5 +1,5 @@
 en:
-  homepage-tag-line: "Help people find benefits that meet their needs."
+  homepage-tag-line: "Improve how people receive the CPP Disability benefit."
   cds-snc: "Canadian Digital Service"
   cds-snc-url: "https://digital.canada.ca"
   hosting: "Hosted on"
@@ -8,9 +8,9 @@ en:
   repo: "Repository"
   language: "Français"
   homepage-slug: "/home/"
-  site-name: "Find benefits and services"
+  site-name: "Improve the CPP Disability benefit"
 fr:
-  homepage-tag-line: "(fr) Help people find benefits that meet their needs."
+  homepage-tag-line: "(fr) Improve how people receive the CPP Disability benefit."
   cds-snc: "Service numérique canadien"
   cds-snc-url: "https://numerique.canada.ca"
   hosting: "Hébergé dans"
@@ -19,4 +19,4 @@ fr:
   repo: "Référentiel"
   language: "English"
   homepage-slug: "/accueil/"
-  site-name: "Rechercher des avantages et des services"
+  site-name: "(fr) Improve the CPP Disability benefit"
