@@ -6,8 +6,8 @@ en:
     name: "Background"
     url: "/background/"
   research:
-    name: "Research"
-    url: "/research/"
+    name: "Discovery research and findings"
+    url: "/discovery-research/"
   contact:
     name: "Contact"
     url: "/contact/"
@@ -19,8 +19,8 @@ fr:
     name: "Background-FR"
     url: "/background-fr/"
   research:
-    name: "Research-FR"
-    url: "/research-fr/"
+    name: "Discovery research and findings-FR"
+    url: "/discovery-research-fr/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"

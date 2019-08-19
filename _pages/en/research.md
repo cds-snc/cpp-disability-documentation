@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Research"
+title:  "Discovery research and findings"
 lang: en
-permalink: "/research/"
-trans_url: "/research-fr/"
+permalink: "/discovery-research/"
+trans_url: "/discovery-research-fr/"
 ---
