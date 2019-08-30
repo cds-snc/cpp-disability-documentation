@@ -8,6 +8,9 @@ en:
   research:
     name: "Discovery research and findings"
     url: "/discovery-research/"
+  participate:
+    name: "Participate in research"
+    url: "/participate/"
   contact:
     name: "Contact"
     url: "/contact/"
@@ -21,6 +24,9 @@ fr:
   research:
     name: "Discovery research and findings-FR"
     url: "/discovery-research-fr/"
+  participate:
+    name: "Participez à notre recherche"
+    url: "/participez/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"

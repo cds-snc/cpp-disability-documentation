@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Background FR"
-lang: en
+lang: fr
 permalink: "/background-fr/"
 trans_url: "/background/"
 ---
