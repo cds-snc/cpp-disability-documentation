@@ -11,6 +11,9 @@ en:
   participate:
     name: "Participate in research"
     url: "/participate/"
+  team-news:
+    name: "Team news"
+    url: "/team-news/"
   contact:
     name: "Contact"
     url: "/contact/"
@@ -27,6 +30,9 @@ fr:
   participate:
     name: "Participez à notre recherche"
     url: "/participez/"
+  team-news:
+    name: "Team news FR"
+    url: "/team-news-fr/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"
