@@ -9,7 +9,7 @@ collections:
     permalink: /:path/
 
 # Title
-name:
+name: CDS + ESDC
 subtitle: Help Canadians access the CPP Disability benefit
 
 # When using this template with a project page set the baseurl to '/project-name'
