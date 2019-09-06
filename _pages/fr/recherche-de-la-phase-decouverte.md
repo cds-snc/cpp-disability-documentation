@@ -24,7 +24,7 @@ L’objectif de la recherche en phase découverte était de déterminer comment 
 
 ## Parcours
 
-Nous avons créé une [cartographie des services]({{ site.baseurl }}/assets/img/journeymap.pdf ), qui décrit les étapes que doivent suivre les demandeurs et les préposés au traitement pour présenter et traiter les demandes de prestations d’invalidité du RPC.
+Nous avons créé une [cartographie des services]({{ site.baseurl }}/assets/img/journeymap.pdf) (fichier PDF, anglais), qui décrit les étapes que doivent suivre les demandeurs et les préposés au traitement pour présenter et traiter les demandes de prestations d’invalidité du RPC.
 
 Le processus comporte beaucoup d’étapes, dont certaines se déroulent plus rapidement que d’autres. Grâce à notre schématisation du parcours et à nos entrevues, nous avons appris que la principale raison pour laquelle le traitement des demandes peut être prolongé concerne les étapes de développement, c’est-à-dire les moments où les préposés au traitement doivent obtenir plus d’information des demandeurs ou des professionnels de la santé pour appuyer une décision. Les demandes d’information peuvent se faire par téléphone, mais elles sont toujours suivies d’un courrier postal. Le personnel doit alors attendre l’information supplémentaire par la poste avant de poursuivre le processus. La durée maximale de ce délai de carence est de 51 jours, mais il arrive que les dossiers soient conservés plus longtemps.
 
