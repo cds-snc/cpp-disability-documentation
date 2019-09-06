@@ -3,7 +3,7 @@ layout: page
 title:  "Contexte"
 lang: fr
 permalink: "/contexte/"
-trans_url: "/Background/"
+trans_url: "/background/"
 ---
 
 Le Programme de prestations d’invalidité du Régime de pensions du Canada (PPIRPC) instauré en 1966 est le plus important programme de prestations d’invalidité de longue durée au Canada; il a distribué 4,4 milliards de dollars de prestations à 338 000 personnes et 83 000 de leurs enfants au cours de l’exercice 2017-2018[^1].
