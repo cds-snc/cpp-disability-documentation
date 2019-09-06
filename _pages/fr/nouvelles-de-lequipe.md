@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Team news FR"
+title:  "Nouvelles d'équipe"
 lang: fr
-permalink: "/team-news-fr/"
+permalink: "/nouvelles-dequipe/"
 trans_url: "/team-news/"
 ---
 

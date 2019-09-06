@@ -3,7 +3,7 @@ layout: page
 title:  "Discovery research and findings"
 lang: en
 permalink: "/discovery-research/"
-trans_url: "/discovery-research-fr/"
+trans_url: "/recherche-de-la-phase-decouverte/"
 ---
 
 The goal of Discovery was to identify how CDS and ESDC can decrease the friction for those who are applying for, receiving, and processing CPP Disability benefits. To meet this objective, the team carried out the following research activities:

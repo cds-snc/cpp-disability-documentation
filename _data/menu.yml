@@ -22,17 +22,17 @@ fr:
     name: "Accueil"
     url: "/accueil/"
   background:
-    name: "Background-FR"
-    url: "/background-fr/"
+    name: "Contexte"
+    url: "/contexte/"
   research:
-    name: "Discovery research and findings-FR"
-    url: "/discovery-research-fr/"
+    name: "Recherche de la phase découverte et conclusions"
+    url: "/recherche-de-la-phase-decouverte/"
   participate:
     name: "Participez à notre recherche"
     url: "/participez/"
   team-news:
-    name: "Team news FR"
-    url: "/team-news-fr/"
+    name: "Nouvelles d'équipe"
+    url: "/nouvelles-dequipe/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"

@@ -3,7 +3,7 @@ layout: page
 title:  "Team news"
 lang: en
 permalink: "/team-news/"
-trans_url: "/team-news-fr/"
+trans_url: "/nouvelles-dequipe/"
 ---
 
 ### Blog posts

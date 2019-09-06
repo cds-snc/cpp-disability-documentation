@@ -10,7 +10,7 @@ en:
   homepage-slug: "/home/"
   site-name: "Help Canadians access the CPP Disability benefit"
 fr:
-  homepage-tag-line: "(fr) Improving the applicant experience by speeding up the process."
+  homepage-tag-line: "Améliorer l’expérience des demandeurs grâce à l’accélération du processus."
   cds-snc: "Service numérique canadien"
   cds-snc-url: "https://numerique.canada.ca"
   hosting: "Hébergé dans"
@@ -19,4 +19,4 @@ fr:
   repo: "Référentiel"
   language: "English"
   homepage-slug: "/accueil/"
-  site-name: "(fr) Help Canadians access the CPP Disability benefit"
+  site-name: "Aider les Canadiennes et les Canadiens à recevoir des prestations d’invalidité du RPC"

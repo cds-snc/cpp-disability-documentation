@@ -3,7 +3,7 @@ layout: page
 title:  "Background"
 lang: en
 permalink: "/background/"
-trans_url: "/background-fr/"
+trans_url: "/contexte/"
 ---
 
 Introduced in 1966, the Canada Pension Plan Disability (CPPD) program is the largest public benefit program for long-term disability in Canada, providing $4.4 billion in benefits to 338,000 people and 83,000 of their children in the fiscal year of 2017-2018[^1].

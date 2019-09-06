@@ -11,7 +11,7 @@ var filesToCache = [
   // images
   '/assets/img/octocat.png',
   // pages
-  '/background/','/contact/','/home/','/participate/','/discovery-research/','/team-news/','/accueil/','/background-fr/','/coordonnees/','/participez/','/discovery-research-fr/','/team-news-fr/',
+  '/background/','/contact/','/discovery-research/','/home/','/participate/','/team-news/','/accueil/','/coordonnees/','/contexte/','/nouvelles-dequipe/','/participez/','/recherche-de-la-phase-decouverte/',
   // posts
   
 ];
