@@ -1,6 +1,6 @@
 # CPP Disability documentation
 
-Documenting CDS and ESDC's work to improve how people receive the CPP Disability benefit. 
+Documenting CDS and ESDC's work to help Canadians access the CPP Disability benefit.
 
 ## Editing the documentation
 
